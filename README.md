@@ -1,9 +1,7 @@
 # Vscode Extention
 - Auto import
-- Auto Rename Tag
 - Eslint
 - Prettier - Code formatter
-- Prettier ESLint
 - Reactjs code snippets
 - vscode-styled-components
 
